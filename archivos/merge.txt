@@ -1,0 +1,1 @@
+Pude crear un commit y subir la carpeta porque github exige que la carpeta tenga al menos un archivo en su interior para poder subir algo, lo cual cumplí con la creación del archivo respuesta.txt 
