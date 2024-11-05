@@ -1,0 +1,5 @@
+Gelsy Jackelin Lozano Blanquiceth
+17 años
+Aspiro obtener los adecuados conocimientos en la modelación, por medio de la programación, de objetos y cómo interactúan en la vida real, con el principal objetivo de convertirme en una futura ingeniera de sistemas de valor.
+Pude crear un commit y subir la carpeta porque github exige que la carpeta tenga al menos un archivo en su interior para poder subir algo, lo cual cumplí con la creación del archivo respuesta.txt 
+Se debe tener cuidado porque puede generar un conflicto el cuál no permitirá que se realice el respectivo push sobre el archivo en el repositorio local
